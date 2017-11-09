@@ -40,5 +40,5 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
     s.dependency  'UMengUShare'
-    s.dependency  'MJExtension'
+    s.dependency  'MJExtension', '3.0.12'
 end
